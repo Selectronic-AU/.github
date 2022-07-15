@@ -1,0 +1,2 @@
+# .github
+Organisation settings repository
